@@ -3,7 +3,7 @@
 
 ## 🚀 Java Backend Developer | REST API Specialist
 
-Welcome to my GitHub! I’m a passionate backend developer with **3.6+ years** of hands-on experience building scalable, secure, and high-performance Java applications. My expertise lies in designing robust RESTful APIs, implementing authentication and authorization mechanisms, and integrating cloud solutions.
+Welcome to my GitHub! I’m a passionate backend developer with  hands-on experience building scalable, secure, and high-performance Java applications. My expertise lies in designing robust RESTful APIs, implementing authentication and authorization mechanisms, and integrating cloud solutions.
 
 ---
 
