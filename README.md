@@ -7,9 +7,9 @@
  
  I've had the opportunity to work on enterprise applications, contributing to their growth through Spring Boot, microservices, and API development. I enjoy collaborating with cross-functional teams to deliver seamless, secure solutions and am always eager to learn and adopt best practices.
 
----
+---- **Development Philosophy:** Clean, testable code. Security-first design. Agile methodologies.
 
-### 🛠️ **Technical Skills**
+ **Technical Skills**
 
 - **Languages:** Java, SQL
 - **Frameworks & Libraries:** Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, iText
@@ -25,27 +25,16 @@
 ---
 
 
-
 ---
-
-### 🎯 **About Me**
-
-- **Education:** Bachelor of Technology (WBUT University, 2016-2020)
-- **Current Role:** Java Developer @ TRICONA IT Solutions, Bengaluru, India (May 2024 – Present)
-- **Development Philosophy:** Clean, testable code. Security-first design. Agile methodologies.
-
----
-
-### 🌐 **Connect with Me**
+  **Connect with Me**
 LinkedIn-
 - [LinkedIn](https://www.linkedin.com/in/sanjay-chaudhary-a8544a9b/)
 
 ---
 
-### ⚡ **Fun Fact**
+  **Fun Fact**
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
----
 
 Feel free to explore my repositories to see my work in action. Always open to collaboration, learning, and new opportunities!
