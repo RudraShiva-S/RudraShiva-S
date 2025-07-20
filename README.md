@@ -1,5 +1,5 @@
 
-#  Hi, I'm RudraShiva-S (Sanjay Kumar)
+#  Hi, I'm Sanjay Kumar
 
 ##  Java Backend Developer | 
 
