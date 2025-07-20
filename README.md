@@ -21,6 +21,20 @@
 - **Build & Version Control:** Maven, Git, GitHub, IntelliJ IDEA, VS Code
 - **Integrations:** SMS, Email & WhatsApp APIs, PDF Generation, REST API Design
 - **Other:** Agile Scrum, Defect Fixing, API Documentation
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/JAVA-orange?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SPRING%20BOOT-brightgreen?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/HIBERNATE-darkgreen?style=for-the-badge&logo=hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/JENKINS-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/BITBUCKET-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Angular](https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
