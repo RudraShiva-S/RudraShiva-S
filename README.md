@@ -33,8 +33,7 @@
 ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/BITBUCKET-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Angular](https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 ---
 
