@@ -9,18 +9,6 @@
 
 ---- **Development Philosophy:** Clean, testable code. Security-first design. Agile methodologies.
 
- **Technical Skills**
-
-- **Languages:** Java, SQL
-- **Frameworks & Libraries:** Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, iText
-- **Databases:** MySQL, PostgreSQL (Basics)
-- **Security & Auth:** JWT Authentication, OTP Login, Role-Based Access, Spring Security
-- **Cloud & Storage:** AWS S3 (File Upload/Download)
-- **Architecture & Design:** MVC, Layered Design, DTOs, Modular Configuration
-- **Testing & Debugging:** JUnit, Mockito, Postman, Swagger
-- **Build & Version Control:** Maven, Git, GitHub, IntelliJ IDEA, VS Code
-- **Integrations:** SMS, Email & WhatsApp APIs, PDF Generation, REST API Design
-- **Other:** Agile Scrum, Defect Fixing, API Documentation
 ## 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/JAVA-orange?style=for-the-badge&logo=java&logoColor=white)
