@@ -1,9 +1,11 @@
 
-# 👋 Hi, I'm RudraShiva-S (Sanjay Kumar)
+#  Hi, I'm RudraShiva-S (Sanjay Kumar)
 
-## 🚀 Java Backend Developer | REST API Specialist
+##  Java Backend Developer | 
 
-Welcome to my GitHub! I’m a passionate backend developer with  hands-on experience building scalable, secure, and high-performance Java applications. My expertise lies in designing robust RESTful APIs, implementing authentication and authorization mechanisms, and integrating cloud solutions.
+ I’m a passionate backend developer with over an experience building scalable, secure, and high-performance Java applications. My expertise lies in designing robust RESTful APIs, implementing authentication and authorization mechanisms, and integrating cloud solutions.
+ 
+ I've had the opportunity to work on enterprise applications, contributing to their growth through Spring Boot, microservices, and API development. I enjoy collaborating with cross-functional teams to deliver seamless, secure solutions and am always eager to learn and adopt best practices.
 
 ---
 
@@ -22,30 +24,7 @@ Welcome to my GitHub! I’m a passionate backend developer with  hands-on experi
 
 ---
 
-### 🌟 **Featured Project: TREEBO**
 
-**Duration:** 1.1 years  
-**Tech Stack:** Spring Boot, Hibernate, Spring Security, JWT, MySQL, Agile, IntelliJ, Postman, Swagger, Java 8
-
-**Key Contributions:**
-- Designed & implemented ER diagrams and Hibernate entity classes with accurate JPA mappings
-- Developed complex JPQL queries and custom finder methods for flexible data retrieval
-- Built robust Repository, Service, and Controller layers following Spring Boot MVC
-- Created reusable DTOs and payload classes for secure data transfer
-- Implemented authentication & authorization with JWT tokens and OTP-based login flows
-- Integrated third-party APIs for SMS, Email, and WhatsApp notifications
-- Generated dynamic PDF documents for transaction records and reporting
-- Integrated AWS S3 for secure storage and retrieval of images/documents
-- Developed modular configuration for environment and integrations
-- Performed server-side validations and centralized exception handling
-- Wrote custom business logic tailored to client/product requirements
-- Ensured code quality with JUnit and Mockito unit tests
-- Conducted API testing and documentation using Postman & Swagger
-- Participated actively in Agile Scrum ceremonies and requirement analysis
-- Owned debugging, defect fixing, and performance tuning
-- Collaborated via Git & GitHub in a team-based Agile environment
-- Leveraged Java 8 features (Streams, Optionals, Lambdas, Functional Interfaces)
-- Developed and deployed RESTful API endpoints aligned with client use cases
 
 ---
 
@@ -58,8 +37,7 @@ Welcome to my GitHub! I’m a passionate backend developer with  hands-on experi
 ---
 
 ### 🌐 **Connect with Me**
-
-- [GitHub](https://github.com/RudraShiva-S)
+LinkedIn-
 - [LinkedIn](https://www.linkedin.com/in/sanjay-chaudhary-a8544a9b/)
 
 ---
